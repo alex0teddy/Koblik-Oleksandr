@@ -93,7 +93,7 @@
 // let trata = +prompt(" enter length");
 // let arr = [];
 // let str = "";
-
+//
 // for (i = 1; i <= trata; i++) {
 //      str = "";
 //     for (j = 1; j <= i; j++) {
